@@ -1,32 +1,86 @@
-# 🤖 CODEWAVE UNIT MD BOT
+# 🤖 CODEWAVE UNIT MD BOT 
 
-**A high-performance multi device** developed by **[Iconic Tech](https://codewave-unit.zone.id)**  
-⚡ Fast | Stable | Multi-Platform | Auto-Updating  
+**The Ultimate Multi-Device AI Assistant**  
+⚡ Blazing Fast | Self-Healing | Cross-Platform | 24/7 Uptime  
 
-![Bot Profile](https://files.catbox.moe/js80a1.jpg)
-
----
-
-## 🌟 Features
-- **Multi-device** compatible (Discord, WhatsApp, etc.)
-- **Self-healing** auto-update system  
-- Powered by **Node.js** + **AI integration**  
-- Managed via **Codewave Unit** platform  
-
----
-
-## 🚀 Quick Links  
-🔗 [Official Website](https://codewave-unit.zone.id) | 📡 [Add Your Bot](https://codewave-unit.zone.id/developer/creator)  
-📚 [Bot Documentation](https://codewave-unit.zone.id/docs) | 💬 [Support](https://codewave-unit.zone.id/support/contact-us)  
+<div align="center">
+  <img src="https://files.catbox.moe/js80a1.jpg" width="200" alt="Bot Profile">
+  <br>
+  <div>
+    <img src="https://img.shields.io/badge/Online-Now-brightgreen" alt="Online Status">
+    <img src="https://img.shields.io/badge/Version-3.2.1-blue" alt="Version">
+    <img src="https://img.shields.io/badge/Uptime-99.9%25-success" alt="Uptime">
+  </div>
+</div>
 
 ---
 
-## 🛠️ Deployment  
-Deploy instantly with **1-click** (free/paid options):  
-[![Deploy on Panel](https://img.shields.io/badge/Deploy%20Free-25%20Coins%20Offer-blue)](https://tinyurl.com/253tajve)  
+## 🎉 NEW UPDATES (v3.2.1)
+- **Chatbot AI** 🤖 - Advanced conversational AI
+- **WasTalk Integration** 💬 - Seamless WhatsApp connection
+- **TikTok Downloader** 🎵 - Save videos with one command
+- **24/7 Deployment** ⚡ - Enjoy non-stop service
+- **Fun GIF Integration** 🎭 - Spice up chats with animated reactions
 
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDl4b2V1b3JpZzR4eW5xZ2J5dGZzYjV6dGJtY3Z2dWJ6b2JmNnF5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abAHdYvZdBNnGZq/giphy.gif" width="150" alt="Fun GIF">
+</div>
+
+---
+
+## 🌟 FEATURES
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://cdn-icons-png.flaticon.com/512/2885/2885257.png" width="60" alt="Multi-Device"><br>
+        <b>Cross-Platform</b>
+      </td>
+      <td align="center">
+        <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="60" alt="AI"><br>
+        <b>AI Powered</b>
+      </td>
+      <td align="center">
+        <img src="https://cdn-icons-png.flaticon.com/512/3524/3524636.png" width="60" alt="Auto-Update"><br>
+        <b>Self-Healing</b>
+      </td>
+    </tr>
+  </table>
+</div>
+
+- Multi-device support (Discord, WhatsApp, Telegram)
+- Auto-update system with rollback protection
+- Node.js backend with AI integration
+- Managed via Codewave Unit Control Panel
+- Fun interactive elements and GIF responses
+
+---
+
+## 🚀 QUICK LINKS
+<div align="center">
+  <a href="https://codewave-unit.zone.id">
+    <img src="https://img.shields.io/badge/🌐_Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
+  </a>
+  <a href="https://codewave-unit.zone.id/developer/creator">
+    <img src="https://img.shields.io/badge/➕_Add_Bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Add Bot">
+  </a>
+  <br>
+  <a href="https://codewave-unit.zone.id/docs">
+    <img src="https://img.shields.io/badge/📚_Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" alt="Docs">
+  </a>
+  <a href="https://codewave-unit.zone.id/support/contact-us">
+    <img src="https://img.shields.io/badge/💬_Support-FF5722?style=for-the-badge&logo=chatbot&logoColor=white" alt="Support">
+  </a>
+</div>
+
+---
+
+## 🛠️ DEPLOYMENT
+**1-Click Deploy (Recommended):**  
+[![Deploy on Panel](https://img.shields.io/badge/🚀_Deploy_Free-25_Coins_Offer-blue?style=for-the-badge&logo=heroku)](https://tinyurl.com/253tajve)  
+
+**Manual Setup:**  
 ```bash
-# Manual setup (Node.js)
 git clone https://github.com/iconic05/queen-ruva-ai.git
 npm install
 npm start
