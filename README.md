@@ -1,6 +1,6 @@
-# 🤖 QUEEN RUVA AI BETA 
+# 🤖 CODEWAVE UNIT MD BOT
 
-**A high-performance AI chatbot** developed by **[Iconic Tech](https://codewave-unit.zone.id)**  
+**A high-performance multi device** developed by **[Iconic Tech](https://codewave-unit.zone.id)**  
 ⚡ Fast | Stable | Multi-Platform | Auto-Updating  
 
 ![Bot Profile](https://files.catbox.moe/js80a1.jpg)
