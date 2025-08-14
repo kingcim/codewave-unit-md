@@ -17,10 +17,10 @@
 
 ## 🎉 NEW UPDATES (v3.2.1)
 - **Chatbot AI** 🤖 - Advanced conversational AI
-- **WasTalk Integration** 💬 - Seamless WhatsApp connection
+- **WasTalk** 💬 - Seamless WhatsApp connection
 - **TikTok Downloader** 🎵 - Save videos with one command
 - **24/7 Deployment** ⚡ - Enjoy non-stop service
-- **Fun GIF Integration** 🎭 - Spice up chats with animated reactions
+- **original developed by iconic tech** 🎭 - made in Zimbabwe 🇿🇼
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDl4b2V1b3JpZzR4eW5xZ2J5dGZzYjV6dGJtY3Z2dWJ6b2JmNnF5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abAHdYvZdBNnGZq/giphy.gif" width="150" alt="Fun GIF">
@@ -50,9 +50,9 @@
 
 - Multi-device support (Discord, WhatsApp, Telegram)
 - Auto-update system with rollback protection
-- Node.js backend with AI integration
+- Node.js backend
 - Managed via Codewave Unit Control Panel
-- Fun interactive elements and GIF responses
+- deploy now Don't forgot to fork and follow us for more fun
 
 ---
 
