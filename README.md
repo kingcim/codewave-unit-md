@@ -38,7 +38,7 @@
       </td>
       <td align="center">
         <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="60" alt="AI"><br>
-        <b>AI Powered</b>
+        <b>Powered by iconic tech official</b>
       </td>
       <td align="center">
         <img src="https://cdn-icons-png.flaticon.com/512/3524/3524636.png" width="60" alt="Auto-Update"><br>
