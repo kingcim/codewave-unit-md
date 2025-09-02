@@ -1,7 +1,7 @@
 {
-  "name": "codewave unit MD",
+  "name": "codewaveunitMD",
   "version": "8.0.1",
-  "description": "codewave unit md developed by iconic tech queen ruva version",
+  "description": "codewave",
   "main": "index.js",
   "type": "commonjs",
   "directories": {
